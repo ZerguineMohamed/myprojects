@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.perso.myapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "souProject",
+    "packageName": "com.perso.myapp",
+    "packageFolder": "com/perso/myapp",
+    "serverPort": "8090",
+    "authenticationType": "oauth2",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTBkYjYxN2RjNTk5ZTQxMGRlOWQ3NDg5ZDBmYzFlYzNhMmI3NDhlNzg4NWQ3M2FhOGJkMmM0NDdjOTM1ODk5NWUyOGFjZDQ5YTU3YTIxYTI4ZWUxZGY0OWNlM2JjMTliMjRkMjBlMmVmYTNlOTUzMzI2Njg4ZWZjZWMwOWRhZjE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
